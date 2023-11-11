@@ -1,0 +1,27 @@
+# Project
+
+Разработать веб-сайт "история Беларуси"
+
+# Description
+
+Разработать веб-сайт "Музыка Китая и Беларуси". Тип сайта 
+Используется язык разработки Python и фреймворк Django. 
+В этом приложении вы можете извлекать музыку, воспроизводить музыку и собирать музыку. 
+
+#Installation
+
+Repository includes the project documentation in wikli and GitHub pages.
+Steps for installation and configuration for web application is described in documentation and application's repository
+
+# Sub modules
+Repository of [история Беларуси web-application](https://github.com/fpmi-hci-2023/project12b-web-renttt).
+
+# Usage
+
+This is demo project.
+
+# Contributing
+
+Abthor: Ren TingTing
+
+
